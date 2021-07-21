@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teste de renderização do Contact O snapshot do component deve permanecer semre o mesmo 1`] = `
+<div>
+  <div
+    class="sc-bdnxRM hsyGQZ"
+  >
+    <p
+      class="sc-gtsrHT ZmPtZ"
+    >
+      Receba ofertas e novidades por e-mail
+    </p>
+    <form
+      class="sc-dlnjwi bHmoUk"
+    >
+      <input
+        class="sc-hKFxyN jldoRf"
+        placeholder="Digite aqui seu e-mail"
+        type="email"
+      />
+      <button
+        class="sc-eCApnc gsrLmF"
+      >
+        Cadastrar
+      </button>
+    </form>
+    <p
+      class="sc-gKAaRy hNfYwp"
+    >
+      Baixe nosso App
+    </p>
+    <div
+      class="sc-jSFjdj fvmXjs"
+    >
+      <img
+        class="sc-iCoGMd eKqSEF"
+        src="http://localhost:3000/assets/app-store.webp"
+      />
+      <img
+        class="sc-iCoGMd eKqSEF"
+        src="http://localhost:3000/assets/google-play.webp"
+      />
+    </div>
+  </div>
+</div>
+`;

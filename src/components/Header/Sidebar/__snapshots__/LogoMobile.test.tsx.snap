@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teste de renderização do LogoMobile O snapshot do component deve permanecer semre o mesmo 1`] = `
+<div>
+  <h1
+    class="sc-bdnxRM fbLKbm"
+  >
+    <img
+      alt=""
+      src="http://localhost:3000/assets/rchlo.svg"
+    />
+  </h1>
+</div>
+`;

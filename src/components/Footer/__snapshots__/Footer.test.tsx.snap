@@ -1,0 +1,654 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teste de renderização do Footer O snapshot do component deve permanecer semre o mesmo 1`] = `
+<div>
+  <div
+    class="sc-cBoqAE japhyL"
+  >
+    <div
+      class="sc-bdnxRM hsyGQZ"
+    >
+      <p
+        class="sc-gtsrHT ZmPtZ"
+      >
+        Receba ofertas e novidades por e-mail
+      </p>
+      <form
+        class="sc-dlnjwi bHmoUk"
+      >
+        <input
+          class="sc-hKFxyN jldoRf"
+          placeholder="Digite aqui seu e-mail"
+          type="email"
+        />
+        <button
+          class="sc-eCApnc gsrLmF"
+        >
+          Cadastrar
+        </button>
+      </form>
+      <p
+        class="sc-gKAaRy hNfYwp"
+      >
+        Baixe nosso App
+      </p>
+      <div
+        class="sc-jSFjdj fvmXjs"
+      >
+        <img
+          class="sc-iCoGMd eKqSEF"
+          src="http://localhost:3000/assets/app-store.webp"
+        />
+        <img
+          class="sc-iCoGMd eKqSEF"
+          src="http://localhost:3000/assets/google-play.webp"
+        />
+      </div>
+    </div>
+    <section
+      class="sc-bkbkJK kbqvBb"
+    >
+      <div
+        class="sc-iemWCZ NSNdG"
+      >
+        <div
+          class="sc-fKgJPI bOrgBT"
+        >
+          <div
+            class="sc-kfYoZR hEhIBZ"
+          >
+            <a
+              class="sc-dlMDgC hRqqVf"
+            >
+              <img
+                alt="Atendimento"
+                class="sc-dIvrsQ fvRqdh"
+                src="http://localhost:3000/assets/ico-attendance.svg"
+              />
+              <p
+                class="sc-hHEiqL hntDWn"
+              >
+                Atendimento
+              </p>
+            </a>
+            <a
+              class="sc-dlMDgC hRqqVf"
+            >
+              <img
+                alt="Fatura e Extrato"
+                class="sc-dIvrsQ fvRqdh"
+                src="http://localhost:3000/assets/ico-invoice-and-statement.svg"
+              />
+              <p
+                class="sc-hHEiqL hntDWn"
+              >
+                Fatura e Extrato
+              </p>
+            </a>
+          </div>
+          <div
+            class="sc-kfYoZR hEhIBZ"
+          >
+            <a
+              class="sc-dlMDgC hRqqVf"
+            >
+              <img
+                alt="Perguntas Frequentes"
+                class="sc-dIvrsQ fvRqdh"
+                src="http://localhost:3000/assets/ico-faq.svg"
+              />
+              <p
+                class="sc-hHEiqL hntDWn"
+              >
+                Perguntas Frequentes
+              </p>
+            </a>
+            <a
+              class="sc-dlMDgC hRqqVf"
+            >
+              <img
+                alt="Trabalhe Conosco"
+                class="sc-dIvrsQ fvRqdh"
+                src="http://localhost:3000/assets/ico-work-with-us.svg"
+              />
+              <p
+                class="sc-hHEiqL hntDWn"
+              >
+                Trabalhe Conosco
+              </p>
+            </a>
+          </div>
+        </div>
+        <hr
+          class="sc-bCwfaz fKisvU"
+        />
+        <ul
+          class="sc-iwajpm cUMJcH"
+        >
+          <li
+            class="sc-cxNHIi kmabQU"
+          >
+            <h3
+              class="sc-lmgQwP esMwmw"
+            >
+              Cartão Riachuelo
+            </h3>
+            <ul
+              class="sc-iJCRrE hoZLlz"
+            >
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Midway Financeira
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Saiba como adquirir
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Veja sua fatura e extrato
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Buscando quitar suas dívidas?
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li
+            class="sc-cxNHIi kmabQU"
+          >
+            <h3
+              class="sc-lmgQwP esMwmw"
+            >
+              Sobre a Riachuelo
+            </h3>
+            <ul
+              class="sc-iJCRrE hoZLlz"
+            >
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  A Empresa
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Portal de Fornecedores
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Relação com Investidores
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Assessoria de Imprensa
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Trabalhe Conosco
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Programa Jovem Aprendiz
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Cadastro de Startups
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                   Mapa do Site 
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                   Guide Shop 
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Venda na Riachuelo Marketplace
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li
+            class="sc-cxNHIi kmabQU"
+          >
+            <h3
+              class="sc-lmgQwP esMwmw"
+            >
+              Moda que Transforma
+            </h3>
+            <ul
+              class="sc-iJCRrE hoZLlz"
+            >
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Na prática
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Entre Costuras
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Jeans Mais Transparente
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Ações Covid-19
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Free Free
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li
+            class="sc-cxNHIi kmabQU"
+          >
+            <h3
+              class="sc-lmgQwP esMwmw"
+            >
+              Ajuda
+            </h3>
+            <ul
+              class="sc-iJCRrE hoZLlz"
+            >
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Atendimento
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Perguntas Frequentes
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Trocas e Devoluções
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Portal da Privacidade
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Política de Privacidade
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Termos e Condições de Uso
+                </a>
+              </li>
+              <li
+                class="sc-giAqHp brZqmx"
+              >
+                <a
+                  class="sc-ezzafa gfTTdr"
+                >
+                  Regras e Resultados de Sorteios
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <section
+      class="sc-fujyAs crvss"
+    >
+      <div
+        class="sc-pNWdM cXljsa"
+      >
+        <div
+          class="sc-kEqXSa gcPtWK"
+        >
+          <h3
+            class="sc-jrsJWt UFhCO"
+          >
+            Formas de Pagamento
+          </h3>
+          <img
+            alt=""
+            class="sc-iqAclL cLjqlN"
+            src="http://localhost:3000/assets/ico-cartao-rchlo1.webp"
+          />
+          <img
+            alt=""
+            class="sc-iqAclL cLjqlN"
+            src="http://localhost:3000/assets/ico-cartao-rchlo2.webp"
+          />
+          <img
+            alt=""
+            class="sc-iqAclL cLjqlN"
+            src="http://localhost:3000/assets/ico-cartao-rchlo3.webp"
+          />
+          <img
+            alt=""
+            class="sc-iqAclL cLjqlN"
+            src="http://localhost:3000/assets/ico-cartao-visa.png"
+          />
+          <img
+            alt=""
+            class="sc-iqAclL cLjqlN"
+            src="http://localhost:3000/assets/ico-cartao-master.webp"
+          />
+          <img
+            alt=""
+            class="sc-iqAclL cLjqlN"
+            src="http://localhost:3000/assets/ico-cartao-amex.webp"
+          />
+          <img
+            alt=""
+            class="sc-iqAclL cLjqlN"
+            src="http://localhost:3000/assets/ico-cartao-diners.png"
+          />
+          <img
+            alt=""
+            class="sc-iqAclL cLjqlN"
+            src="http://localhost:3000/assets/ico-cartao-elo.png"
+          />
+          <img
+            alt=""
+            class="sc-iqAclL cLjqlN"
+            src="http://localhost:3000/assets/ico-boleto.webp"
+          />
+          <img
+            alt=""
+            class="sc-iqAclL cLjqlN"
+            src="http://localhost:3000/assets/ico-paypal.png"
+          />
+        </div>
+        <div
+          class="sc-crzoAE ivCHKH"
+        >
+          <h3
+            class="sc-jrsJWt UFhCO"
+          >
+            Siga a Riachuelo
+          </h3>
+          <div
+            class="sc-dIsUp gAxazk"
+          >
+            <div
+              class="sc-bqGGPW emXnvp"
+            >
+              <a
+                href="#"
+              >
+                <img
+                  alt=""
+                  class="sc-hBMUJo kVjBdS"
+                  src="http://localhost:3000/assets/ico-facebook.svg"
+                />
+              </a>
+            </div>
+            <div
+              class="sc-bqGGPW emXnvp"
+            >
+              <a
+                href="#"
+              >
+                <img
+                  alt=""
+                  class="sc-hBMUJo kVjBdS"
+                  src="http://localhost:3000/assets/ico-instagram.svg"
+                />
+              </a>
+              <p
+                class="sc-ksluID cuKBgK"
+              >
+                RCHLO
+              </p>
+            </div>
+            <div
+              class="sc-bqGGPW emXnvp"
+            >
+              <a
+                href="#"
+              >
+                <img
+                  alt=""
+                  class="sc-hBMUJo kVjBdS"
+                  src="http://localhost:3000/assets/ico-instagram.svg"
+                />
+              </a>
+              <p
+                class="sc-ksluID cuKBgK"
+              >
+                CASA
+                <br />
+                RCHLO
+              </p>
+            </div>
+            <div
+              class="sc-bqGGPW emXnvp"
+            >
+              <a
+                href="#"
+              >
+                <img
+                  alt=""
+                  class="sc-hBMUJo kVjBdS"
+                  src="http://localhost:3000/assets/ico-pinterest.svg"
+                />
+              </a>
+            </div>
+            <div
+              class="sc-bqGGPW emXnvp"
+            >
+              <a
+                href="#"
+              >
+                <img
+                  alt=""
+                  class="sc-hBMUJo kVjBdS"
+                  src="http://localhost:3000/assets/ico-twitter.svg"
+                />
+              </a>
+            </div>
+            <div
+              class="sc-bqGGPW emXnvp"
+            >
+              <a
+                href="#"
+              >
+                <img
+                  alt=""
+                  class="sc-hBMUJo kVjBdS"
+                  src="http://localhost:3000/assets/ico-youtube.svg"
+                />
+              </a>
+            </div>
+            <div
+              class="sc-bqGGPW emXnvp"
+            >
+              <a
+                href="#"
+              >
+                <img
+                  alt=""
+                  class="sc-hBMUJo kVjBdS"
+                  src="http://localhost:3000/assets/ico-linkedin.svg"
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-fnVZcZ eiDGpM"
+        >
+          <h3
+            class="sc-jrsJWt UFhCO"
+          >
+            Acessibilidade
+          </h3>
+          <img
+            alt=""
+            class="sc-fFSPTT hZeUVI"
+            src="http://localhost:3000/assets/ico-a11y.webp"
+          />
+        </div>
+      </div>
+    </section>
+    <section
+      class="sc-bYwzuL dmbWbj"
+    >
+      <div
+        class="sc-kLojOw cMeeqo"
+      >
+        <div
+          class="sc-iklJeh eWHSfJ"
+        >
+          <p
+            class="sc-jJMGnK eOddlr"
+          >
+            © Copyright 2017 - 2019. Todos os direitos reservados. Lojas Riachuelo S/A. Rua Landri Sales, 1.070, G02 Anexo B, Guarulhos - SP - Brasil
+            <br />
+            CEP 07250-130 CNPJ 33.200.056/0441-97 | IE 796.420.926.112 | SAC 4003-0515.Direção de fotografia de produtos por Adriano Adrião.
+            <br />
+            Pagamento com Cartão Riachuelo, parcelas mínimas de R$ 15,00. Para os demais cartões Visa, Mastercard, Elo, Diners, Hipercard e American Express, parcelas mínimas de R$ 30,00.
+            <br />
+            * COMPRE NO SITE e RETIRE NA LOJA com FRETE GRÁTIS, conforme lojas participantes. Consulte as lojas participantes nas opções de frete do seu pedido, conforme CEP de entrega cadastrado.
+            <br />
+            Frete único de R$ 4,99 para Sul e Sudeste em compras a partir de R$ 129,00. Demais regiões o valor estará sujeito a variações. Condição por tempo indeterminado, para tipo de entrega “normal”.
+            <br />
+            Preços, promoções, condições de pagamento, valores de frete e disponibilidade de estoque são aplicados somente nas compras efetuadas na loja online Riachuelo. Existe uma limitação de peças iguais no mesmo pedido que muda de acordo com o tipo de produto.
+            <br />
+            Em caso de divergência de valores entre a página do produto e a Sacola de Compras, a Riachuelo se reserva a garantir o valor exibido na Sacola de Compras.
+          </p>
+        </div>
+        <div
+          class="sc-hiKfDv llsdsG"
+        >
+          <img
+            alt=""
+            class="sc-gXfVKN fSmFJX"
+            src="http://localhost:3000/assets/ra1000.webp"
+          />
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;

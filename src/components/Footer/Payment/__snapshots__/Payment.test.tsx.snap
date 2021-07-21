@@ -1,0 +1,203 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teste de renderização do Payment O snapshot do component deve permanecer semre o mesmo 1`] = `
+<div>
+  <section
+    class="sc-bdnxRM ccRLLJ"
+  >
+    <div
+      class="sc-gtsrHT jzvizc"
+    >
+      <div
+        class="sc-hKFxyN kmVPMd"
+      >
+        <h3
+          class="sc-dlnjwi dRMNSy"
+        >
+          Formas de Pagamento
+        </h3>
+        <img
+          alt=""
+          class="sc-eCApnc jmKjNN"
+          src="http://localhost:3000/assets/ico-cartao-rchlo1.webp"
+        />
+        <img
+          alt=""
+          class="sc-eCApnc jmKjNN"
+          src="http://localhost:3000/assets/ico-cartao-rchlo2.webp"
+        />
+        <img
+          alt=""
+          class="sc-eCApnc jmKjNN"
+          src="http://localhost:3000/assets/ico-cartao-rchlo3.webp"
+        />
+        <img
+          alt=""
+          class="sc-eCApnc jmKjNN"
+          src="http://localhost:3000/assets/ico-cartao-visa.png"
+        />
+        <img
+          alt=""
+          class="sc-eCApnc jmKjNN"
+          src="http://localhost:3000/assets/ico-cartao-master.webp"
+        />
+        <img
+          alt=""
+          class="sc-eCApnc jmKjNN"
+          src="http://localhost:3000/assets/ico-cartao-amex.webp"
+        />
+        <img
+          alt=""
+          class="sc-eCApnc jmKjNN"
+          src="http://localhost:3000/assets/ico-cartao-diners.png"
+        />
+        <img
+          alt=""
+          class="sc-eCApnc jmKjNN"
+          src="http://localhost:3000/assets/ico-cartao-elo.png"
+        />
+        <img
+          alt=""
+          class="sc-eCApnc jmKjNN"
+          src="http://localhost:3000/assets/ico-boleto.webp"
+        />
+        <img
+          alt=""
+          class="sc-eCApnc jmKjNN"
+          src="http://localhost:3000/assets/ico-paypal.png"
+        />
+      </div>
+      <div
+        class="sc-jSFjdj hOEhMY"
+      >
+        <h3
+          class="sc-dlnjwi dRMNSy"
+        >
+          Siga a Riachuelo
+        </h3>
+        <div
+          class="sc-gKAaRy bZNrck"
+        >
+          <div
+            class="sc-iCoGMd cSVfke"
+          >
+            <a
+              href="#"
+            >
+              <img
+                alt=""
+                class="sc-pNWdM yVHFZ"
+                src="http://localhost:3000/assets/ico-facebook.svg"
+              />
+            </a>
+          </div>
+          <div
+            class="sc-iCoGMd cSVfke"
+          >
+            <a
+              href="#"
+            >
+              <img
+                alt=""
+                class="sc-pNWdM yVHFZ"
+                src="http://localhost:3000/assets/ico-instagram.svg"
+              />
+            </a>
+            <p
+              class="sc-fujyAs hGvzSs"
+            >
+              RCHLO
+            </p>
+          </div>
+          <div
+            class="sc-iCoGMd cSVfke"
+          >
+            <a
+              href="#"
+            >
+              <img
+                alt=""
+                class="sc-pNWdM yVHFZ"
+                src="http://localhost:3000/assets/ico-instagram.svg"
+              />
+            </a>
+            <p
+              class="sc-fujyAs hGvzSs"
+            >
+              CASA
+              <br />
+              RCHLO
+            </p>
+          </div>
+          <div
+            class="sc-iCoGMd cSVfke"
+          >
+            <a
+              href="#"
+            >
+              <img
+                alt=""
+                class="sc-pNWdM yVHFZ"
+                src="http://localhost:3000/assets/ico-pinterest.svg"
+              />
+            </a>
+          </div>
+          <div
+            class="sc-iCoGMd cSVfke"
+          >
+            <a
+              href="#"
+            >
+              <img
+                alt=""
+                class="sc-pNWdM yVHFZ"
+                src="http://localhost:3000/assets/ico-twitter.svg"
+              />
+            </a>
+          </div>
+          <div
+            class="sc-iCoGMd cSVfke"
+          >
+            <a
+              href="#"
+            >
+              <img
+                alt=""
+                class="sc-pNWdM yVHFZ"
+                src="http://localhost:3000/assets/ico-youtube.svg"
+              />
+            </a>
+          </div>
+          <div
+            class="sc-iCoGMd cSVfke"
+          >
+            <a
+              href="#"
+            >
+              <img
+                alt=""
+                class="sc-pNWdM yVHFZ"
+                src="http://localhost:3000/assets/ico-linkedin.svg"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-jrsJWt eBlIzz"
+      >
+        <h3
+          class="sc-dlnjwi dRMNSy"
+        >
+          Acessibilidade
+        </h3>
+        <img
+          alt=""
+          class="sc-kEqXSa kWsKLu"
+          src="http://localhost:3000/assets/ico-a11y.webp"
+        />
+      </div>
+    </div>
+  </section>
+</div>
+`;

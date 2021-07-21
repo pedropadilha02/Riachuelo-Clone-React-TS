@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teste de renderização do CopyRight O snapshot do component deve permanecer semre o mesmo 1`] = `
+<div>
+  <div
+    class="sc-hKFxyN ckjeHz"
+  >
+    <div
+      class="sc-eCApnc exFulq"
+    >
+      <h1
+        class="sc-dlnjwi lvQDz"
+      >
+        <img
+          alt=""
+          src="http://localhost:3000/assets/rchlo.svg"
+        />
+      </h1>
+      <div
+        class="sc-jSFjdj iAfa-Dv"
+      >
+        <img
+          class="sc-gKAaRy hfPqRA"
+          src="assets/menu.svg"
+        />
+        <p
+          class="sc-iCoGMd eceaLO"
+        >
+          menu
+        </p>
+      </div>
+    </div>
+    <nav
+      class="sc-pNWdM InFUy"
+    >
+      <ul
+        class="sc-fujyAs QkLnU"
+      />
+    </nav>
+  </div>
+</div>
+`;

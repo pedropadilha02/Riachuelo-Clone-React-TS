@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teste de renderização do SearchBar O snapshot do component deve permanecer semre o mesmo 1`] = `
+<div>
+  <div
+    class="sc-bdnxRM tTQqD"
+  >
+    <img
+      class="sc-gtsrHT TSJlF"
+      src="http://localhost:3000/assets/search.svg"
+    />
+    <input
+      class="sc-dlnjwi kCGmry"
+      placeholder="O que você está procurando?"
+      type="search"
+      value=""
+    />
+  </div>
+</div>
+`;

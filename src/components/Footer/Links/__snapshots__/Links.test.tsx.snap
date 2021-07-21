@@ -1,0 +1,749 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teste de renderização do CopyRight O snapshot do component deve permanecer semre o mesmo 1`] = `
+<div>
+  <section
+    class="sc-bdnxRM hRApwB"
+  >
+    <div
+      class="sc-gtsrHT jCnptH"
+    >
+      <div
+        class="sc-gKAaRy ivuftR"
+      >
+        <div
+          class="sc-jSFjdj dpajPd"
+        >
+          <a
+            class="sc-eCApnc jUdTA"
+          >
+            <img
+              alt="Atendimento"
+              class="sc-dlnjwi gNOmFU"
+              src="http://localhost:3000/assets/ico-attendance.svg"
+            />
+            <p
+              class="sc-hKFxyN hNtjwE"
+            >
+              Atendimento
+            </p>
+          </a>
+          <a
+            class="sc-eCApnc jUdTA"
+          >
+            <img
+              alt="Fatura e Extrato"
+              class="sc-dlnjwi gNOmFU"
+              src="http://localhost:3000/assets/ico-invoice-and-statement.svg"
+            />
+            <p
+              class="sc-hKFxyN hNtjwE"
+            >
+              Fatura e Extrato
+            </p>
+          </a>
+        </div>
+        <div
+          class="sc-jSFjdj dpajPd"
+        >
+          <a
+            class="sc-eCApnc jUdTA"
+          >
+            <img
+              alt="Perguntas Frequentes"
+              class="sc-dlnjwi gNOmFU"
+              src="http://localhost:3000/assets/ico-faq.svg"
+            />
+            <p
+              class="sc-hKFxyN hNtjwE"
+            >
+              Perguntas Frequentes
+            </p>
+          </a>
+          <a
+            class="sc-eCApnc jUdTA"
+          >
+            <img
+              alt="Trabalhe Conosco"
+              class="sc-dlnjwi gNOmFU"
+              src="http://localhost:3000/assets/ico-work-with-us.svg"
+            />
+            <p
+              class="sc-hKFxyN hNtjwE"
+            >
+              Trabalhe Conosco
+            </p>
+          </a>
+        </div>
+      </div>
+      <hr
+        class="sc-iCoGMd kqSMlw"
+      />
+      <ul
+        class="sc-fujyAs cnMVeJ"
+      >
+        <li
+          class="sc-pNWdM jyIRSB"
+        >
+          <h3
+            class="sc-jrsJWt VFqDq"
+          >
+            Cartão Riachuelo
+          </h3>
+          <ul
+            class="sc-kEqXSa dPCQuf"
+          >
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Midway Financeira
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Saiba como adquirir
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Veja sua fatura e extrato
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Buscando quitar suas dívidas?
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li
+          class="sc-pNWdM jyIRSB"
+        >
+          <h3
+            class="sc-jrsJWt VFqDq"
+          >
+            Sobre a Riachuelo
+          </h3>
+          <ul
+            class="sc-kEqXSa dPCQuf"
+          >
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                A Empresa
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Portal de Fornecedores
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Relação com Investidores
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Assessoria de Imprensa
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Trabalhe Conosco
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Programa Jovem Aprendiz
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Cadastro de Startups
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                 Mapa do Site 
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                 Guide Shop 
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Venda na Riachuelo Marketplace
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li
+          class="sc-pNWdM jyIRSB"
+        >
+          <h3
+            class="sc-jrsJWt VFqDq"
+          >
+            Moda que Transforma
+          </h3>
+          <ul
+            class="sc-kEqXSa dPCQuf"
+          >
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Na prática
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Entre Costuras
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Jeans Mais Transparente
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Ações Covid-19
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Free Free
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li
+          class="sc-pNWdM jyIRSB"
+        >
+          <h3
+            class="sc-jrsJWt VFqDq"
+          >
+            Ajuda
+          </h3>
+          <ul
+            class="sc-kEqXSa dPCQuf"
+          >
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Atendimento
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Perguntas Frequentes
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Trocas e Devoluções
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Portal da Privacidade
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Política de Privacidade
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Termos e Condições de Uso
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Regras e Resultados de Sorteios
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Teste de renderização dos Links O snapshot do component deve permanecer semre o mesmo 1`] = `
+<div>
+  <section
+    class="sc-bdnxRM hRApwB"
+  >
+    <div
+      class="sc-gtsrHT jCnptH"
+    >
+      <div
+        class="sc-gKAaRy ivuftR"
+      >
+        <div
+          class="sc-jSFjdj dpajPd"
+        >
+          <a
+            class="sc-eCApnc jUdTA"
+          >
+            <img
+              alt="Atendimento"
+              class="sc-dlnjwi gNOmFU"
+              src="http://localhost:3000/assets/ico-attendance.svg"
+            />
+            <p
+              class="sc-hKFxyN hNtjwE"
+            >
+              Atendimento
+            </p>
+          </a>
+          <a
+            class="sc-eCApnc jUdTA"
+          >
+            <img
+              alt="Fatura e Extrato"
+              class="sc-dlnjwi gNOmFU"
+              src="http://localhost:3000/assets/ico-invoice-and-statement.svg"
+            />
+            <p
+              class="sc-hKFxyN hNtjwE"
+            >
+              Fatura e Extrato
+            </p>
+          </a>
+        </div>
+        <div
+          class="sc-jSFjdj dpajPd"
+        >
+          <a
+            class="sc-eCApnc jUdTA"
+          >
+            <img
+              alt="Perguntas Frequentes"
+              class="sc-dlnjwi gNOmFU"
+              src="http://localhost:3000/assets/ico-faq.svg"
+            />
+            <p
+              class="sc-hKFxyN hNtjwE"
+            >
+              Perguntas Frequentes
+            </p>
+          </a>
+          <a
+            class="sc-eCApnc jUdTA"
+          >
+            <img
+              alt="Trabalhe Conosco"
+              class="sc-dlnjwi gNOmFU"
+              src="http://localhost:3000/assets/ico-work-with-us.svg"
+            />
+            <p
+              class="sc-hKFxyN hNtjwE"
+            >
+              Trabalhe Conosco
+            </p>
+          </a>
+        </div>
+      </div>
+      <hr
+        class="sc-iCoGMd kqSMlw"
+      />
+      <ul
+        class="sc-fujyAs cnMVeJ"
+      >
+        <li
+          class="sc-pNWdM jyIRSB"
+        >
+          <h3
+            class="sc-jrsJWt VFqDq"
+          >
+            Cartão Riachuelo
+          </h3>
+          <ul
+            class="sc-kEqXSa dPCQuf"
+          >
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Midway Financeira
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Saiba como adquirir
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Veja sua fatura e extrato
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Buscando quitar suas dívidas?
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li
+          class="sc-pNWdM jyIRSB"
+        >
+          <h3
+            class="sc-jrsJWt VFqDq"
+          >
+            Sobre a Riachuelo
+          </h3>
+          <ul
+            class="sc-kEqXSa dPCQuf"
+          >
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                A Empresa
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Portal de Fornecedores
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Relação com Investidores
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Assessoria de Imprensa
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Trabalhe Conosco
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Programa Jovem Aprendiz
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Cadastro de Startups
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                 Mapa do Site 
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                 Guide Shop 
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Venda na Riachuelo Marketplace
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li
+          class="sc-pNWdM jyIRSB"
+        >
+          <h3
+            class="sc-jrsJWt VFqDq"
+          >
+            Moda que Transforma
+          </h3>
+          <ul
+            class="sc-kEqXSa dPCQuf"
+          >
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Na prática
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Entre Costuras
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Jeans Mais Transparente
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Ações Covid-19
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Free Free
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li
+          class="sc-pNWdM jyIRSB"
+        >
+          <h3
+            class="sc-jrsJWt VFqDq"
+          >
+            Ajuda
+          </h3>
+          <ul
+            class="sc-kEqXSa dPCQuf"
+          >
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Atendimento
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Perguntas Frequentes
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Trocas e Devoluções
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Portal da Privacidade
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Política de Privacidade
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Termos e Condições de Uso
+              </a>
+            </li>
+            <li
+              class="sc-iqAclL bCdkeR"
+            >
+              <a
+                class="sc-crzoAE mWntY"
+              >
+                Regras e Resultados de Sorteios
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </section>
+</div>
+`;

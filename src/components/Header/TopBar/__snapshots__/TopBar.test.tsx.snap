@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teste de renderização do TopBar O snapshot do component deve permanecer semre o mesmo 1`] = `
+<div>
+  <div
+    class="sc-bdnxRM ehoEoz"
+  >
+    <nav
+      class="sc-gtsrHT jYNNkQ"
+    >
+      <ul
+        class="sc-dlnjwi eBSnnx"
+      >
+        <li
+          class="sc-jSFjdj IeHBW"
+        >
+          <a
+            class="sc-iCoGMd iudIFn"
+          >
+            BAIXE O APP
+          </a>
+        </li>
+        <li
+          class="sc-jSFjdj IeHBW"
+        >
+          <a
+            class="sc-iCoGMd iudIFn"
+          >
+            CARTER'S
+          </a>
+        </li>
+        <li
+          class="sc-jSFjdj IeHBW"
+        >
+          <a
+            class="sc-iCoGMd iudIFn"
+          >
+            CASA RIACHUELO
+          </a>
+        </li>
+        <li
+          class="sc-jSFjdj IeHBW"
+        >
+          <a
+            class="sc-iCoGMd iudIFn"
+          >
+            BÁSICOS
+          </a>
+        </li>
+        <li
+          class="sc-jSFjdj IeHBW"
+        >
+          <a
+            class="sc-iCoGMd iudIFn"
+          >
+            JEANS
+          </a>
+        </li>
+      </ul>
+      <ul
+        class="sc-hKFxyN ikxfVS"
+      >
+        <li
+          class="sc-jSFjdj IeHBW"
+        >
+          <img
+            alt=""
+            class="sc-gKAaRy dBkeEM"
+            src="assets/whatsappIcon.png"
+          />
+          <a
+            class="sc-eCApnc dgTqnZ"
+          >
+            COMPRE PELO WHATSAPP
+          </a>
+        </li>
+        <li
+          class="sc-jSFjdj IeHBW"
+        >
+          <img
+            alt=""
+            class="sc-gKAaRy dBkeEM"
+            src="assets/phoneIcon.png"
+          />
+          <a
+            class="sc-iCoGMd iudIFn"
+          >
+            ATENDIMENTO
+          </a>
+        </li>
+        <li
+          class="sc-jSFjdj IeHBW"
+        >
+          <img
+            alt=""
+            class="sc-gKAaRy dBkeEM"
+            src="assets/localizationIcon.png"
+          />
+          <a
+            class="sc-iCoGMd iudIFn"
+          >
+            NOSSAS LOJAS
+          </a>
+        </li>
+        <li
+          class="sc-jSFjdj IeHBW"
+        >
+          <img
+            class="sc-gKAaRy dBkeEM"
+            src="assets/wifiIcon.png"
+          />
+          <a
+            class="sc-iCoGMd iudIFn"
+          >
+            BLOG
+          </a>
+        </li>
+        <li
+          class="sc-jSFjdj IeHBW"
+        >
+          <img
+            class="sc-gKAaRy dBkeEM"
+            src="assets/creditCardIcon.png"
+          />
+          <a
+            class="sc-iCoGMd iudIFn"
+          >
+            CARTÃO RIACHUELO
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</div>
+`;
