@@ -8354,7 +8354,7 @@ qs@6.11.0:
 
 qs@6.7.0:
   version "6.7.0"
-  resolved "https://registry.npmjs.org/qs/-/qs-6.7.0.tgz"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.7.0.tgz#41dc1a015e3d581f1621776be31afb2876a9b1bc"
 
 querystringify@^2.1.1:
   version "2.2.0"
